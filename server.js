@@ -3,7 +3,7 @@ const dotenv = require('dotenv');
 
 
 
-dotenv.config({path:'./config.env'});
+dotenv.config({path:'./.env'});
 const {server} = require('./app')
 
 //replacing the password tag with the rigth password in my connection string
