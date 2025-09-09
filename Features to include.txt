@@ -1,0 +1,17 @@
+Features to include:
+
+Users can create projects ✅
+
+Add tasks with deadlines, assign to team members ✅
+
+Kanban board (To-do, In-progress, Done) ✅
+
+Comments on tasks ✅
+
+File upload (multer + cloud storage like AWS S3/Cloudinary) ✅
+
+Activity logs & notifications ✅
+
+Stack: Express.js + PostgreSQL (for relational data) + WebSockets (for real-time updates)
+
+Extra: Deploy & add an API documentation (Swagger/Postman Collection).
